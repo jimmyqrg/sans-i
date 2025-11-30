@@ -27,7 +27,7 @@
                 </action>
                 <action id="5" name="Push" sid="7288109683993914" type="PlayerItems">
                     <param id="0" name="Where">0</param>
-                    <param id="1" name="Value">1</param>
+                    <param id="1" name="Value">0</param>
                     <param id="2" name="Axis">0</param>
                 </action>
                 <action id="5" name="Push" sid="4578436985688055" type="PlayerItems">
@@ -152,7 +152,7 @@
                             <actions>
                                 <action id="-10" name="Set value" sid="2744947721000227" type="SansLegs">
                                     <param id="0" name="Instance variable">HitAttempts</param>
-                                    <param id="1" name="Value">15</param>
+                                    <param id="1" name="Value">05</param>
                                 </action>
                                 <action id="0" name="Call function" sid="931292737815473" type="Function">
                                     <param id="0" name="Name">&quot;SansHead&quot;</param>
@@ -291,7 +291,7 @@
                                 </action>
                                 <action id="-9" name="Set value" sid="9069972295144216" type="System">
                                     <param id="0" name="Variable">WebGLSpeech</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -308,7 +308,7 @@
                                     <actions>
                                         <action id="-10" name="Set value" sid="4208605593275383" type="SansLegs">
                                             <param id="0" name="Instance variable">HitAttempts</param>
-                                            <param id="1" name="Value">16</param>
+                                            <param id="1" name="Value">06</param>
                                         </action>
                                         <action id="-10" name="Set value" sid="6755981998704707" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
@@ -579,7 +579,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="8542394061486128" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -599,7 +599,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="892328920562479" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -619,7 +619,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="2335323764650383" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -639,7 +639,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="2011632458044627" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -659,7 +659,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="2920387661146958" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -679,7 +679,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="6300490246912156" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -699,7 +699,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="3598830035157635" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -719,7 +719,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="3531329946577688" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -739,7 +739,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="4624674001538727" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -759,7 +759,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="9078073712209508" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -779,7 +779,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="5532933273974015" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -799,7 +799,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="4360530943380891" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -819,7 +819,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="3480072015931767" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -839,7 +839,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="8071696133224881" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -922,7 +922,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="9574311237492765" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -942,7 +942,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="6324337389092798" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -962,7 +962,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="1180382113194056" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -982,7 +982,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="5994071180108625" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -1002,7 +1002,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="3622911059814079" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -1022,7 +1022,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="1742474565978232" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -1042,7 +1042,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="59212355233205" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -1062,7 +1062,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="7122609178334212" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -1082,7 +1082,7 @@
                                         </action>
                                         <action id="-11" name="Add to" sid="7809365906146129" type="SansLegs">
                                             <param id="0" name="Instance variable">NextAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -1663,7 +1663,7 @@
                                 </action>
                                 <action id="-9" name="Set value" sid="3600010592724275" type="System">
                                     <param id="0" name="Variable">MenuState</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="0" name="Call function" sid="1207065133818899" type="Function">
                                     <param id="0" name="Name">&quot;CombatZoneResize&quot;</param>
@@ -1760,7 +1760,7 @@
                                         </action>
                                         <action id="-13" name="Set boolean" sid="3681338764453256" type="MenuItem">
                                             <param id="0" name="Instance variable">Created</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -1973,7 +1973,7 @@
                                 </action>
                                 <action id="-10" name="Set value" sid="3849853044523412" type="DamageFont">
                                     <param id="0" name="Instance variable">Timeout</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-28" name="Set effect parameter" sid="5385909024181278" type="DamageFont">
                                     <param id="0" name="Effect">&quot;Tint&quot;</param>
@@ -2026,7 +2026,7 @@
                                 </action>
                                 <action id="-10" name="Set value" sid="6137173581093592" type="DamageFont">
                                     <param id="0" name="Instance variable">Timeout</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-28" name="Set effect parameter" sid="6206359133040834" type="DamageFont">
                                     <param id="0" name="Effect">&quot;Tint&quot;</param>
@@ -2061,7 +2061,7 @@
                             <actions>
                                 <action id="-10" name="Set value" sid="3462362621041137" type="Target">
                                     <param id="0" name="Instance variable">State</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="3" name="Start" sid="6122618086121465" type="TargetChoice">
                                     <param id="0" name="From">0</param>
@@ -2089,7 +2089,7 @@
                                 </action>
                                 <action id="-10" name="Set value" sid="4688554665763953" type="SansLegs">
                                     <param id="0" name="Instance variable">DodgeState</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -2224,7 +2224,7 @@
                         </action>
                         <action id="-13" name="Set boolean" sid="695507833767016" type="DefaultFont">
                             <param id="0" name="Instance variable">Interactive</param>
-                            <param id="1" name="Value">1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                         <action id="-15" name="Set visible" sid="9524031638952571" type="PlayerHeart">
                             <param id="0" name="Visibility">0</param>
@@ -2285,7 +2285,7 @@
                         </action>
                         <action id="-13" name="Set boolean" sid="1593059177039637" type="DefaultFont">
                             <param id="0" name="Instance variable">Interactive</param>
-                            <param id="1" name="Value">1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -2492,7 +2492,7 @@
                                         </action>
                                         <action id="-13" name="Set boolean" sid="9149347642381097" type="DefaultFont">
                                             <param id="0" name="Instance variable">Interactive</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                         <action id="9" name="Delete" sid="2830073791898047" type="PlayerItems">
                                             <param id="0" name="Index">ItemSlot</param>
@@ -2798,7 +2798,7 @@
                             <actions>
                                 <action id="-13" name="Set boolean" sid="6198566400341324" type="Platform1">
                                     <param id="0" name="Instance variable">Reverse</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -3006,7 +3006,7 @@
                             <actions>
                                 <action id="-10" name="Set value" sid="7659002453561227" type="Platform1">
                                     <param id="0" name="Instance variable">Direction</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action behavior="CustomMovement" id="6" name="Set angle of motion" sid="6116066042343552" type="Platform1">
                                     <param id="0" name="Angle">Platform1.Direction*90</param>
@@ -3165,7 +3165,7 @@
                         </action>
                         <action id="-13" name="Set boolean" sid="8020750525248225" type="PlayerHeart">
                             <param id="0" name="Instance variable">Slammed</param>
-                            <param id="1" name="Value">1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                         <action id="-8" name="Set angle" sid="5493186742726137" type="PlayerHeart">
                             <param id="0" name="Angle">floor(Function.Param(0))*90</param>
@@ -3210,7 +3210,7 @@
                             <actions>
                                 <action id="-13" name="Set boolean" sid="446579325661908" type="PlayerHeart">
                                     <param id="0" name="Instance variable">SlamDamage</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -3474,7 +3474,7 @@
                                             <actions>
                                                 <action id="-11" name="Subtract from" sid="596088198518508" type="System">
                                                     <param id="0" name="Variable">HP</param>
-                                                    <param id="1" name="Value">1</param>
+                                                    <param id="1" name="Value">0</param>
                                                 </action>
                                             </actions>
                                         </event-block>
@@ -3579,7 +3579,7 @@
                                             <actions>
                                                 <action id="-11" name="Subtract from" sid="147709354093065" type="System">
                                                     <param id="0" name="Variable">HP</param>
-                                                    <param id="1" name="Value">1</param>
+                                                    <param id="1" name="Value">0</param>
                                                 </action>
                                             </actions>
                                         </event-block>
@@ -3636,7 +3636,7 @@
                     <actions>
                         <action id="-9" name="Set value" sid="2978380243308504" type="System">
                             <param id="0" name="Variable">HeartSpeed</param>
-                            <param id="1" name="Value">150</param>
+                            <param id="1" name="Value">050</param>
                         </action>
                     </actions>
                 </event-block>
@@ -4057,7 +4057,7 @@
                             <actions>
                                 <action id="-9" name="Set value" sid="338089297036133" type="System">
                                     <param id="0" name="Variable">Gravity</param>
-                                    <param id="1" name="Value">180</param>
+                                    <param id="1" name="Value">080</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -4092,7 +4092,7 @@
                             <actions>
                                 <action id="-9" name="Set value" sid="872727136379418" type="System">
                                     <param id="0" name="Variable">Gravity</param>
-                                    <param id="1" name="Value">180</param>
+                                    <param id="1" name="Value">080</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -4481,7 +4481,7 @@
                         </action>
                         <action id="-10" name="Set value" sid="5000565429672398" type="BoneH">
                             <param id="0" name="Instance variable">Damage</param>
-                            <param id="1" name="Value">1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                         <action id="-10" name="Set value" sid="4114719680038067" type="BoneH">
                             <param id="0" name="Instance variable">Karma</param>
@@ -4525,7 +4525,7 @@
                         </action>
                         <action id="-10" name="Set value" sid="4893010288676622" type="BoneV">
                             <param id="0" name="Instance variable">Damage</param>
-                            <param id="1" name="Value">1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                         <action id="-10" name="Set value" sid="7645334274462566" type="BoneV">
                             <param id="0" name="Instance variable">Karma</param>
@@ -5109,7 +5109,7 @@
                                 </action>
                                 <action id="-10" name="Set value" sid="586952918594669" type="BoneStabV">
                                     <param id="0" name="Instance variable">Damage</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-10" name="Set value" sid="2432076473351" type="BoneStabV">
                                     <param id="0" name="Instance variable">Karma</param>
@@ -5192,7 +5192,7 @@
                                 </action>
                                 <action id="-10" name="Set value" sid="5938073132448245" type="BoneStabH">
                                     <param id="0" name="Instance variable">Damage</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-10" name="Set value" sid="2563513741162476" type="BoneStabH">
                                     <param id="0" name="Instance variable">Karma</param>
@@ -5373,7 +5373,7 @@
                                             <actions>
                                                 <action id="-13" name="Set boolean" sid="5987922517835066" type="BoneStab">
                                                     <param id="0" name="Instance variable">Reverse</param>
-                                                    <param id="1" name="Value">1</param>
+                                                    <param id="1" name="Value">0</param>
                                                 </action>
                                             </actions>
                                         </event-block>
@@ -5803,11 +5803,11 @@
                                 </action>
                                 <action id="-10" name="Set value" sid="2600151717672333" type="GasterBlastHit">
                                     <param id="0" name="Instance variable">Damage</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-10" name="Set value" sid="9378633162546508" type="GasterBlastHit">
                                     <param id="0" name="Instance variable">Karma</param>
-                                    <param id="1" name="Value">10</param>
+                                    <param id="1" name="Value">00</param>
                                 </action>
                                 <action id="6" name="Stop" sid="6080608424724769" type="Audio">
                                     <param id="0" name="Tag">&quot;GasterBlast&quot;</param>
@@ -6110,7 +6110,7 @@
                     <actions>
                         <action id="-13" name="Set boolean" sid="2547283341792006" type="MenuBoneLeft">
                             <param id="0" name="Instance variable">Destroy</param>
-                            <param id="1" name="Value">1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                         <action id="-9" name="Set value" sid="8296348287965188" type="System">
                             <param id="0" name="Variable">BottomBones</param>
@@ -6133,7 +6133,7 @@
                         </action>
                         <action id="-10" name="Set value" sid="8224056418517312" type="MenuBoneLeft">
                             <param id="0" name="Instance variable">Damage</param>
-                            <param id="1" name="Value">1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                     </actions>
                 </event-block>
@@ -6146,7 +6146,7 @@
                     <actions>
                         <action id="-9" name="Set value" sid="6336215758346847" type="System">
                             <param id="0" name="Variable">BottomBones</param>
-                            <param id="1" name="Value">1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                         <action id="-9" name="Set value" sid="5704799274625452" type="System">
                             <param id="0" name="Variable">BottomBoneTimer</param>
@@ -6243,7 +6243,7 @@
                                         </action>
                                         <action id="-10" name="Set value" sid="3030307659837008" type="MenuBoneBottom">
                                             <param id="0" name="Instance variable">Damage</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                         <action id="-10" name="Set value" sid="8068044741609472" type="MenuBoneBottom">
                                             <param id="0" name="Instance variable">Button</param>
@@ -6280,7 +6280,7 @@
                                         </action>
                                         <action id="-10" name="Set value" sid="9051686628527372" type="MenuBoneBottom">
                                             <param id="0" name="Instance variable">Damage</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                         <action id="-10" name="Set value" sid="8674600451055565" type="MenuBoneBottom">
                                             <param id="0" name="Instance variable">Button</param>
@@ -6315,7 +6315,7 @@
                                     <actions>
                                         <action id="-9" name="Set value" sid="5043129334982446" type="System">
                                             <param id="0" name="Variable">BottomBoneAlternate</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -6361,7 +6361,7 @@
                                 </action>
                                 <action id="-10" name="Set value" sid="8891407594263872" type="MenuBoneBottom">
                                     <param id="0" name="Instance variable">State</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -7315,7 +7315,7 @@
                                 </action>
                                 <action id="-10" name="Set value" sid="7601106470658233" type="DamageFont">
                                     <param id="0" name="Instance variable">Timeout</param>
-                                    <param id="1" name="Value">1.5</param>
+                                    <param id="1" name="Value">0.5</param>
                                 </action>
                                 <action id="-28" name="Set effect parameter" sid="4732363059797661" type="DamageFont">
                                     <param id="0" name="Effect">&quot;Tint&quot;</param>
@@ -7403,11 +7403,11 @@
                                 </action>
                                 <action id="-11" name="Add to" sid="2787628370272392" type="SansLegs">
                                     <param id="0" name="Instance variable">HitAttempts</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-13" name="Set boolean" sid="6575202250839281" type="SansLegs">
                                     <param id="0" name="Instance variable">JustDodged</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-9" name="Destroy" sid="4700416217010713" type="TargetChoice" />
                                 <action id="-10" name="Set value" sid="9357729356844489" type="Target">
@@ -7462,7 +7462,7 @@
                             <actions>
                                 <action id="-12" name="Subtract from" sid="7588369545806161" type="SansTorso">
                                     <param id="0" name="Instance variable">T</param>
-                                    <param id="1" name="Value">1.2</param>
+                                    <param id="1" name="Value">0.2</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -7477,7 +7477,7 @@
                             <actions>
                                 <action id="-12" name="Subtract from" sid="180131503971844" type="SansHead">
                                     <param id="0" name="Instance variable">T</param>
-                                    <param id="1" name="Value">1.2</param>
+                                    <param id="1" name="Value">0.2</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -7523,7 +7523,7 @@
                             <actions>
                                 <action id="-12" name="Subtract from" sid="7059030601907315" type="SansHead">
                                     <param id="0" name="Instance variable">T</param>
-                                    <param id="1" name="Value">1.1</param>
+                                    <param id="1" name="Value">0.1</param>
                                 </action>
                             </actions>
                         </event-block>
@@ -7870,7 +7870,7 @@
                                     <actions>
                                         <action id="-9" name="Set value" sid="8545346840609998" type="System">
                                             <param id="0" name="Variable">HP</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -7893,7 +7893,7 @@
                                     <actions>
                                         <action id="-9" name="Set value" sid="1647115571304168" type="System">
                                             <param id="0" name="Variable">HP</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                     </actions>
                                 </event-block>
@@ -8092,11 +8092,11 @@
                             <actions>
                                 <action id="-11" name="Subtract from" sid="367994759311799" type="System">
                                     <param id="0" name="Variable">KR</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-11" name="Subtract from" sid="7145972870133036" type="System">
                                     <param id="0" name="Variable">HP</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-9" name="Set value" sid="3354172617694137" type="System">
                                     <param id="0" name="Variable">KR_T</param>
@@ -8120,11 +8120,11 @@
                             <actions>
                                 <action id="-11" name="Subtract from" sid="4007812791047903" type="System">
                                     <param id="0" name="Variable">KR</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-11" name="Subtract from" sid="8509973852713055" type="System">
                                     <param id="0" name="Variable">HP</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-9" name="Set value" sid="1575178129545446" type="System">
                                     <param id="0" name="Variable">KR_T</param>
@@ -8148,11 +8148,11 @@
                             <actions>
                                 <action id="-11" name="Subtract from" sid="8502592643458527" type="System">
                                     <param id="0" name="Variable">KR</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-11" name="Subtract from" sid="6158261558974326" type="System">
                                     <param id="0" name="Variable">HP</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-9" name="Set value" sid="6002050402712816" type="System">
                                     <param id="0" name="Variable">KR_T</param>
@@ -8176,11 +8176,11 @@
                             <actions>
                                 <action id="-11" name="Subtract from" sid="988951855727097" type="System">
                                     <param id="0" name="Variable">KR</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-11" name="Subtract from" sid="5614098109596639" type="System">
                                     <param id="0" name="Variable">HP</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-9" name="Set value" sid="6741928042799543" type="System">
                                     <param id="0" name="Variable">KR_T</param>
@@ -8199,11 +8199,11 @@
                             <actions>
                                 <action id="-11" name="Subtract from" sid="6431584617366178" type="System">
                                     <param id="0" name="Variable">KR</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-11" name="Subtract from" sid="5219165492250095" type="System">
                                     <param id="0" name="Variable">HP</param>
-                                    <param id="1" name="Value">1</param>
+                                    <param id="1" name="Value">0</param>
                                 </action>
                                 <action id="-9" name="Set value" sid="8473310431549791" type="System">
                                     <param id="0" name="Variable">KR_T</param>
@@ -8527,11 +8527,11 @@
                     <actions>
                         <action id="-11" name="Subtract from" sid="193041292027305" type="System">
                             <param id="0" name="Variable">Timer</param>
-                            <param id="1" name="Value">1/30</param>
+                            <param id="1" name="Value">0/30</param>
                         </action>
                         <action id="-11" name="Subtract from" sid="453029557440805" type="System">
                             <param id="0" name="Variable">Intensity</param>
-                            <param id="1" name="Value">1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                         <action id="-5" name="Scroll to X" sid="906414024255952" type="System">
                             <param id="0" name="X">CenterX + Intensity * choose(1, -1)</param>
@@ -8627,7 +8627,7 @@
                                     <actions>
                                         <action id="-10" name="Add to" sid="881745530468964" type="System">
                                             <param id="0" name="Variable">PracticeAttack</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                         <action id="-3" name="Create object" sid="479817542647507" type="System">
                                             <param id="0" name="Object to create">DamageFont</param>
@@ -8644,7 +8644,7 @@
                                         </action>
                                         <action id="-10" name="Set value" sid="821747686948053" type="DamageFont">
                                             <param id="0" name="Instance variable">Timeout</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                         <action id="-28" name="Set effect parameter" sid="819649176613760" type="DamageFont">
                                             <param id="0" name="Effect">&quot;Tint&quot;</param>
@@ -8679,7 +8679,7 @@
                                             <actions>
                                                 <action id="-10" name="Set value" sid="976393462683652" type="SansLegs">
                                                     <param id="0" name="Instance variable">HitAttempts</param>
-                                                    <param id="1" name="Value">14</param>
+                                                    <param id="1" name="Value">04</param>
                                                 </action>
                                                 <action id="-9" name="Set value" sid="599424083330358" type="System">
                                                     <param id="0" name="Variable">PracticeAttack</param>
@@ -8729,7 +8729,7 @@
                                         </action>
                                         <action id="-10" name="Set value" sid="143812776820792" type="DamageFont">
                                             <param id="0" name="Instance variable">Timeout</param>
-                                            <param id="1" name="Value">1</param>
+                                            <param id="1" name="Value">0</param>
                                         </action>
                                         <action id="-28" name="Set effect parameter" sid="209147796693642" type="DamageFont">
                                             <param id="0" name="Effect">&quot;Tint&quot;</param>
@@ -8842,7 +8842,7 @@
                                             <actions>
                                                 <action id="-9" name="Set value" sid="726604368094586" type="System">
                                                     <param id="0" name="Variable">Failed</param>
-                                                    <param id="1" name="Value">1</param>
+                                                    <param id="1" name="Value">0</param>
                                                 </action>
                                                 <action id="0" name="Call function" sid="616579381246618" type="Function">
                                                     <param id="0" name="Name">&quot;EndAttack&quot;</param>

@@ -2212,7 +2212,7 @@
                         </action>
                         <action id="-10" name="Set value" sid="8302002307835332" type="DefaultFont">
                             <param id="0" name="Instance variable">FullText</param>
-                            <param id="1" name="Value">&quot;* SANS 1 ATK 1 DEF&quot; &amp; newline &amp; &quot;* The easiest enemy.&quot; &amp; newline &amp; &quot;* Can only deal 1 damage.&quot;</param>
+                            <param id="1" name="Value">&quot;* SANS 1 ATK 1 DEF&quot; &amp; newline &amp; &quot;* The easiest enemy.&quot; &amp; newline &amp; &quot;* Can deal no damage.&quot;</param>
                         </action>
                         <action id="-10" name="Set value" sid="7783602027376122" type="DefaultFont">
                             <param id="0" name="Instance variable">Name</param>

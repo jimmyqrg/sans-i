@@ -8244,7 +8244,7 @@
                     <actions>
                         <action id="-10" name="Set value" sid="3459561075160849" type="PlayerHeart">
                             <param id="0" name="Instance variable">Mode</param>
-                            <param id="1" name="Value">-1</param>
+                            <param id="1" name="Value">0</param>
                         </action>
                         <action behavior="CustomMovement" id="12" name="Set enabled" sid="9082846895447337" type="PlayerHeart">
                             <param id="0" name="State">0</param>

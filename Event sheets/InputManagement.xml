@@ -48,7 +48,7 @@
                 </event-block>
                 <event-block sid="8840813666946258">
                     <conditions>
-                        <condition id="-1" name="Every tick" sid="6426605950705829" type="System" />
+                        <condition id="0" name="Every tick" sid="6426605950705829" type="System" />
                     </conditions>
                     <actions>
                         <action id="-10" name="Set value" sid="6631016432276171" type="VPad">
@@ -83,7 +83,7 @@
                 </event-block>
                 <event-block sid="4294682545513989">
                     <conditions>
-                        <condition id="-1" name="Every tick" sid="452053121247752" type="System" />
+                        <condition id="0" name="Every tick" sid="452053121247752" type="System" />
                     </conditions>
                     <actions>
                         <action id="-10" name="Set value" sid="4308477622289035" type="VPad">
@@ -457,7 +457,7 @@
                                         <variable constant="0" name="StartDPad" sid="959706783019112" static="0" type="number">1</variable>
                                         <event-block sid="937309899299078">
                                             <conditions>
-                                                <condition id="-1" name="Every tick" sid="839198326880009" type="System" />
+                                                <condition id="0" name="Every tick" sid="839198326880009" type="System" />
                                             </conditions>
                                             <actions>
                                                 <action id="-9" name="Set value" sid="469766991599153" type="System">
@@ -633,7 +633,7 @@
                                         <variable constant="1" name="TOUCH_ZONE" sid="845876408649566" static="0" type="number">24</variable>
                                         <event-block sid="610269434621506">
                                             <conditions>
-                                                <condition id="-1" name="Every tick" sid="682704827463364" type="System" />
+                                                <condition id="0" name="Every tick" sid="682704827463364" type="System" />
                                             </conditions>
                                             <actions>
                                                 <action id="-9" name="Set value" sid="241295947317404" type="System">
@@ -730,7 +730,7 @@
                                         <variable constant="0" name="Y" sid="870371977719287" static="0" type="number">0</variable>
                                         <event-block sid="557329239365404">
                                             <conditions>
-                                                <condition id="-1" name="Every tick" sid="173663799341533" type="System" />
+                                                <condition id="0" name="Every tick" sid="173663799341533" type="System" />
                                             </conditions>
                                             <actions>
                                                 <action id="-9" name="Set value" sid="126163555432130" type="System">
